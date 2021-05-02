@@ -16,7 +16,7 @@ Boomshark will be an app for sharing projects that you're working on. Posts will
 
 # Objectives
 
-- It's a beginner level app created to understand how MVC concept and logins are added
+- It's a note-taking app to encourage productivity.
 
 ---
 
