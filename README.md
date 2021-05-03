@@ -1,6 +1,6 @@
 # Mindful notes
 
-![Boomshark](https://raw.githubusercontent.com/jamespro/boomshark/main/public/img/banner.png)
+![Mindful Notes](https://raw.githubusercontent.com/jamespro/boomshark/main/public/img/banner.png)
 
 * Demo: [https://mindfulnotes.herokuapp.com/](https://mindfulnotes.herokuapp.com/)
 
