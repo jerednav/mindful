@@ -1,4 +1,4 @@
-# Mindful notes
+# Mindful Notes
 
 ![Mindful Notes](https://raw.githubusercontent.com/jamespro/boomshark/main/public/img/banner.png)
 
