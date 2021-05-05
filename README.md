@@ -10,7 +10,7 @@
 
 ---
 
-Boomshark will be an app for sharing projects that you're working on. Posts will include a title, image, description, and a link to the live url or github (and maybe tagging as well if we can get added within a week). 
+Mindful Notes is an app for sharing projects that you're working on. Posts will include a title, image, description, and a link to the live url or github (and maybe tagging as well if we can get added within a week). 
 
 ---
 
