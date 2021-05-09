@@ -1,8 +1,8 @@
-# Mindful Notes
+# Mindful
 
-![Mindful Notes](https://raw.githubusercontent.com/jamespro/boomshark/main/public/img/banner.png)
+![Mindful](https://raw.githubusercontent.com/jamespro/boomshark/main/public/img/banner.png)
 
-* Demo: [https://mindfulnotes.herokuapp.com/](https://mindfulnotes.herokuapp.com/)
+* Demo: [https://mindfulnotes.herokuapp.com/](https://mindful.herokuapp.com/)
 
 ---
 
@@ -10,7 +10,7 @@
 
 ---
 
-Mindful Notes is an app for providing simple note-taking for efficient productivity.
+Mindful is a collection for notes, to do lists and budget tracker to help organize your life.
 
 ---
 
