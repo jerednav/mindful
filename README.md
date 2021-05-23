@@ -22,7 +22,7 @@ Mindful is a collection for notes, to do lists and budget tracker to help organi
 
 # Who is this for?
 
-- It's for beginners & intermediates with little more experience, to help understand the various aspects of building a node app with some complex features
+- It's for people who need organization in their life to plan ahead.
 
 ---
 
