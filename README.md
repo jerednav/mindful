@@ -1,8 +1,6 @@
 # Mindful
 
-![Mindful](https://raw.githubusercontent.com/jamespro/boomshark/main/public/img/banner.png)
-
-* Demo: [https://mindfulnotes.herokuapp.com/](https://mindful.herokuapp.com/)
+[https://mindfulnotes.herokuapp.com/](https://mindful.herokuapp.com/)
 
 ---
 
