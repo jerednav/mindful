@@ -19,7 +19,16 @@ module.exports = {
         }catch(err){
             console.log(err)
         }
-    }
+    },
+    
+     createFolder: async (req, res)=>{
+        try{
+            const post = await Post.findById(req.params.id)
+            res.render('post.ejs', {post: post, user: req.user})
+        }catch(err){
+            console.log(err)
+        }
+    },
     // markComplete: async (req, res)=>{
     //     try{
     //         await Todo.findOneAndUpdate({_id:req.body.todoIdFromJSFile},{
