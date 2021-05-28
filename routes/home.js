@@ -7,7 +7,7 @@ router.get('/', ensureAuth, postController.getNote)
 
 router.post('/createNote', postController.createNote)
 
-router.post('/folder', postController.createFolder)
+// router.post('/folder', postController.createFolder)
 
 // router.put('/markComplete', todosController.markComplete)
 
