@@ -1,6 +1,6 @@
 # Mindful
 
-[https://mindfulnotes.herokuapp.com/](https://mindful.herokuapp.com/)
+[https://mindful.herokuapp.com/](https://mindful.herokuapp.com/)
 
 ---
 
